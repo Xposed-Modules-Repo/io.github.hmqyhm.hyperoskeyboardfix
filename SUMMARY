@@ -1,1 +1,1 @@
-在 HyperOS 3 上将实体键盘快捷键传递给远程桌面、虚拟机和串流应用。Pass physical keyboard shortcuts through on HyperOS 3.
+在 HyperOS 3 白名单应用中接管实体键盘快捷键，支持自动切换输入法与键盘宏。Physical keyboard shortcuts, automatic IME switching, and keyboard macros for HyperOS 3.
