@@ -1,1 +1,1 @@
-在 HyperOS 3 白名单应用中接管实体键盘快捷键，支持自动切换输入法与键盘宏。Physical keyboard shortcuts, automatic IME switching, and keyboard macros for HyperOS 3.
+在 HyperOS 3 白名单应用内接管实体键盘快捷键，支持自动切换输入法，以及可混合文字、键盘和鼠标动作的宏。Physical keyboard shortcut takeover, automatic IME switching, and mixed text/keyboard/mouse macros for allowlisted apps on HyperOS 3.
